@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/amar/Desktop/.env/bin/python",
+    "python.autoComplete.extraPaths": [],
+    "python.linting.pep8Enabled": true,
+    "python.linting.pylintEnabled": true
+}
